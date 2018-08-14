@@ -4,8 +4,6 @@
   "description": "Node application",
   "main": "server.js",
   "scripts": {
-
-    
     "readme": "node ./node_modules/.bin/node-readme",
     "ci": ""
   },
